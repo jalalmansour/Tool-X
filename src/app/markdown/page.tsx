@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { SiteLayout } from "@/components/layout/site-layout";
-import { I18nProvider } from "@/components/providers/i18n-provider";
+import I18nProvider from "@/components/providers/i18n-provider";
 import { useTranslation } from "@/lib/hooks/use-translation";
 import { motion } from "framer-motion";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
