@@ -1,0 +1,294 @@
+{
+  "common": {
+    "appName": "Tool X",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "comingSoon": "Coming Soon",
+    "viewAll": "View All",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "search": "Search",
+    "nothingFound": "Nothing found",
+    "back": "Back"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "tools": "Tools",
+    "markdownPro": "Markdown Pro",
+    "security": "Security",
+    "resources": "Resources",
+    "login": "Log In",
+    "logout": "Log Out",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "home": {
+    "hero": {
+      "title": "Transform Your Security Workflow",
+      "subtitle": "A cutting-edge cybersecurity platform designed for professionals",
+      "cta": "Explore Tools"
+    },
+    "features": {
+      "title": "Powerful Features",
+      "subtitle": "Everything you need in one cybersecurity toolkit",
+      "markdownPro": {
+        "title": "Markdown Pro",
+        "description": "Advanced document conversion with formatting and export options"
+      },
+      "securityTools": {
+        "title": "Security Tools",
+        "description": "Comprehensive set of penetration testing and security analysis tools"
+      },
+      "aiAssistant": {
+        "title": "AI Assistant",
+        "description": "DuinoBot helps with security analysis and threat intelligence"
+      },
+      "realTimeMonitoring": {
+        "title": "Real-Time Monitoring",
+        "description": "Track system performance and security alerts"
+      }
+    },
+    "testimonials": {
+      "title": "What Users Say About Us",
+      "subtitle": "Trusted by security professionals worldwide",
+      "items": [
+        {
+          "name": "Alex Chen",
+          "role": "Security Analyst",
+          "company": "CyberDefense Inc.",
+          "text": "Tool X has significantly improved my workflow. The comprehensive suite of security tools saves me hours of time.",
+          "rating": 5
+        },
+        {
+          "name": "Sarah Johnson",
+          "role": "Penetration Tester",
+          "company": "SecureNet Solutions",
+          "text": "The encoding/decoding tools and hash generators have become essential in my daily work. Highly recommended!",
+          "rating": 5
+        },
+        {
+          "name": "Mohammed Al-Farsi",
+          "role": "Security Engineer",
+          "company": "Global Protect",
+          "text": "Markdown Pro integration is seamless, and the AI assistant provides valuable insights during security assessments.",
+          "rating": 4
+        },
+        {
+          "name": "Keiko Tanaka",
+          "role": "Cybersecurity Consultant",
+          "company": "DefendTech",
+          "text": "The UI is beautiful and the tools are powerful. The steganography detection feature caught vulnerabilities our other tools missed.",
+          "rating": 5
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to level up your security toolkit?",
+      "subtitle": "Join thousands of security professionals using Tool X",
+      "button": "Get Started for Free"
+    }
+  },
+  "tools": {
+    "title": "Security Toolkit",
+    "subtitle": "Comprehensive suite of security and penetration testing tools",
+    "categories": {
+      "encoding": "Encoding & Decoding",
+      "hashing": "Hash Generation",
+      "passwords": "Password Tools",
+      "network": "Network Tools",
+      "data": "Data Security",
+      "steganography": "Steganography",
+      "exploits": "Exploit Database",
+      "sandbox": "Sandbox Environment",
+      "scanners": "Security Scanners"
+    },
+    "tools": {
+      "base64": {
+        "title": "Base64 Encoder/Decoder",
+        "description": "Convert text to and from Base64 encoding"
+      },
+      "url": {
+        "title": "URL Encoder/Decoder",
+        "description": "Encode and decode URL components"
+      },
+      "hex": {
+        "title": "Hex Converter",
+        "description": "Convert between text and hexadecimal representation"
+      },
+      "caesar": {
+        "title": "Caesar Cipher",
+        "description": "Encrypt and decrypt using the Caesar substitution cipher"
+      },
+      "md5": {
+        "title": "MD5 Generator",
+        "description": "Generate MD5 hash from input text"
+      },
+      "sha1": {
+        "title": "SHA-1 Generator",
+        "description": "Generate SHA-1 hash from input text"
+      },
+      "sha256": {
+        "title": "SHA-256 Generator",
+        "description": "Generate SHA-256 hash from input text"
+      },
+      "sha512": {
+        "title": "SHA-512 Generator",
+        "description": "Generate SHA-512 hash from input text"
+      },
+      "bcrypt": {
+        "title": "bcrypt Tool",
+        "description": "Hash and verify passwords using bcrypt"
+      },
+      "argon2": {
+        "title": "Argon2 Tool",
+        "description": "Hash and verify passwords using Argon2"
+      },
+      "passwordGenerator": {
+        "title": "Password Generator",
+        "description": "Generate strong, customizable passwords"
+      },
+      "passwordStrength": {
+        "title": "Password Strength Checker",
+        "description": "Assess password strength and security"
+      },
+      "portScanner": {
+        "title": "Port Scanner",
+        "description": "Scan for open ports on a target system"
+      },
+      "ping": {
+        "title": "Ping Tool",
+        "description": "Test connectivity to a host"
+      },
+      "traceroute": {
+        "title": "Visual Traceroute",
+        "description": "Visualize network path to a destination"
+      },
+      "dnsLookup": {
+        "title": "DNS Lookup",
+        "description": "Query DNS records for a domain"
+      },
+      "whois": {
+        "title": "WHOIS Lookup",
+        "description": "Retrieve WHOIS information for a domain"
+      },
+      "dataSanitizer": {
+        "title": "Data Sanitizer",
+        "description": "Securely erase sensitive data"
+      },
+      "fileShredder": {
+        "title": "File Shredder",
+        "description": "Permanently delete files beyond recovery"
+      },
+      "memoryCleaner": {
+        "title": "Memory Cleaner",
+        "description": "Securely clear sensitive data from memory"
+      },
+      "stegoHide": {
+        "title": "Steganography Hide",
+        "description": "Hide data within image files"
+      },
+      "stegoDetect": {
+        "title": "Steganography Detector",
+        "description": "Detect hidden data in image files"
+      },
+      "exploitSearch": {
+        "title": "Exploit Search",
+        "description": "Search public exploit databases"
+      },
+      "cveDetails": {
+        "title": "CVE Details",
+        "description": "Look up Common Vulnerabilities and Exposures"
+      },
+      "vmSandbox": {
+        "title": "VM Sandbox",
+        "description": "Run potentially malicious code in a safe environment"
+      },
+      "webScanner": {
+        "title": "Web Security Scanner",
+        "description": "Scan web applications for vulnerabilities"
+      }
+    }
+  },
+  "markdown": {
+    "title": "Markdown Pro",
+    "subtitle": "Advanced document editing and conversion",
+    "editor": {
+      "title": "Editor",
+      "placeholder": "Start typing your markdown here...",
+      "save": "Save",
+      "export": "Export",
+      "preview": "Preview"
+    },
+    "formats": {
+      "title": "Export Formats",
+      "pdf": "PDF Document",
+      "docx": "Word Document",
+      "ppt": "PowerPoint",
+      "png": "PNG Image",
+      "html": "HTML"
+    },
+    "tabs": {
+      "editor": "Editor",
+      "tools": "Tools",
+      "math": "Math",
+      "tables": "Tables",
+      "styles": "Styles"
+    }
+  },
+  "security": {
+    "title": "Security Dashboard",
+    "subtitle": "Monitor and manage your security posture",
+    "principles": {
+      "zeroTrust": {
+        "title": "Zero Trust",
+        "description": "Continuously verify every access request"
+      },
+      "microsegmentation": {
+        "title": "Microsegmentation",
+        "description": "Network isolation and access control"
+      },
+      "supplyChain": {
+        "title": "Supply Chain",
+        "description": "Secure third-party dependencies"
+      },
+      "leastPrivilege": {
+        "title": "Least Privilege",
+        "description": "Minimal permissions for roles"
+      },
+      "continuousMonitoring": {
+        "title": "Continuous Monitoring",
+        "description": "Regular audits and threat detection"
+      }
+    },
+    "sections": {
+      "apiSecurity": {
+        "title": "API Security",
+        "description": "Manage and secure API credentials"
+      },
+      "frontendSecurity": {
+        "title": "Front-End Security",
+        "description": "Content Security Policy and browser protections"
+      },
+      "backendSecurity": {
+        "title": "Back-End Security",
+        "description": "Infrastructure and database security"
+      },
+      "antiPhishing": {
+        "title": "Anti-Phishing",
+        "description": "Protection against social engineering attacks"
+      }
+    }
+  },
+  "footer": {
+    "site": "Site",
+    "legal": "Legal",
+    "company": "Company",
+    "copyright": "© {year} Duino Inc. All rights reserved.",
+    "builtWith": "Built with ♥ by",
+    "poweredBy": "Powered by"
+  }
+}
